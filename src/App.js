@@ -6,10 +6,10 @@ import UserContextProvider from "./context/UserContextProvider";
 function App() {
   return (
     <div className="App">
-      <UserContextProvider>
+      {/* <UserContextProvider>
         <Header />
         <Addtask />
-      </UserContextProvider>
+      </UserContextProvider> */}
     </div>
   );
 }
